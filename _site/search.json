@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "À propos de moi",
+      "description": "Candidat(e) à la maîtrise / di_maurizio.vanessa@courrier.uqam.ca\n",
+      "author": [],
+      "contents": "\r\n\r\nMes intérêts de recherche s’inscrivent dans les sciences de la biodiversité.\r\nJe m’intéresse particulièrement à la biogéographie ainsi qu’aux relations complexes entre la diversité et les fonctions & services écosystémiques.\r\nDans mon projet de recherche, j’utilise le vaste réseau de placettes permanentes du Québec pour mieux comprendre la relation entre la diversité et la productivité des forêts. Comment cette relation change-t-elle en fonction des traits des espèces voisines? Quels sont les traits d’un bon voisinage du point de vue d’une espèce cible ? Est-ce que ça change selon les traits de l’espèce cible ? Les réponses à ces questions vont nous permettre de mieux comprendre la relation diversité - productivité, mais aussi le fonctionnement des forêts de manière plus générale.\r\nJe m’intéresse aussi à tout ce qui touche à la vulgarisation scientifique parce que c’est essentiel de savoir communiquer notre propre science, mais aussi parce que c’est amusant!\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-12T21:59:31-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Billets de blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-12T22:00:23-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
