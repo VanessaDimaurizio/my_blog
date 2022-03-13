@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,400&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap');
 d-title h1 {
   font-weight: 500;
+  color: #fFF;
 }
 
 d-title {
@@ -14,7 +15,7 @@ background:
       rgba(77,77,77, 0.9)
     ),
     /* bottom, image */
-    url(veronica-reverse-unsplash.jpg) no-repeat center center fixed;
+    url(pexels-francesco-ungaro.jpg) no-repeat center center fixed;
 -webkit-background-size: cover !important;
 -moz-background-size: cover !important;
 -o-background-size: cover !important;
@@ -107,7 +108,7 @@ p.caption {
     background-position: 15px center;
     min-height: 100px;
     color: #343a40;
-    font-size: smaller;
+    font-size: 16px;
     background-color: #f7ede2;
     border: solid 2px #eee2df
   }

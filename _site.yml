@@ -1,5 +1,6 @@
 name: "Vanessa Di Maurizio"
 title: "Vanessa Di Maurizio"
+theme: theme.css 
 description: |
   My Blog
 output_dir: "_site"
