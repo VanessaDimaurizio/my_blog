@@ -1,7 +1,7 @@
 ---
 title: "Quand les fragments d’ADN et d’ARN dessinent le portrait de la biodiversité"
 description: | 
-  La biodiversité—aujourd'hui menacée—est au cœur des préoccupations de bon nombre d'entre nous. Tantôt elle nous inspire, tantôt elle nous nourrit; la biodiversité nous fait vivre et nous fait rêver. Si son importance n'est plus à démontrer, sa préservation exige néanmoins de répondre à la question suivante: comment la biodiversité se porte-t-elle? Se déploie alors l’immensité à laquelle elle réfère: une variété de paysages, une multiplicité d’espèces et d'innombrables gènes. Devant une telle complexité, par où commencer? Peut-être par prendre le pouls des millions d’espèces avec lesquelles nous partageons notre biosphère? L’ampleur de la tâche semble éléphantesque, mais grâce à l’ADN et l’ARN environnemental, il n’aura jamais été aussi facile de récolter une tonne d'informations à leur sujet.
+  La biodiversité—aujourd'hui menacée—est au cœur des préoccupations de bon nombre d'entre nous. Tantôt elle nous inspire, tantôt elle nous nourrit; la biodiversité nous fait vivre et nous fait rêver. Si son importance n'est plus à démontrer, sa préservation exige néanmoins de répondre à la question suivante: Comment la biodiversité se porte-t-elle? Se déploie alors l’immensité à laquelle elle réfère: une variété de paysages, une multiplicité d’espèces et d'innombrables gènes. Devant une telle complexité, par où commencer? Peut-être par prendre le pouls des millions d’espèces avec lesquelles nous partageons notre biosphère? L’ampleur de la tâche semble éléphantesque, mais grâce à l’ADN et l’ARN environnemental, il n’aura jamais été aussi facile de récolter une tonne d'informations à leur sujet.
   
 Autrice:
   - name: Vanessa Di Maurizio
